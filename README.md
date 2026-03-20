@@ -43,7 +43,7 @@ case-08-library/
 
 ├── 📁 data/                    # Тестовые данные
 
-    └── 📁 C08/                 # Датасеты (T1.csv, T2.csv, golden.csv, invalid.csv)
+│   └── 📁 C08/                 # Датасеты (T1.csv, T2.csv, golden.csv, invalid.csv)
 
 ├── 📁 src-1c/                  # Конфигурация 1С (выгрузка .cf или .dt)
 
