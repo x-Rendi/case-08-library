@@ -165,7 +165,8 @@ cd case-08-library
 
 | Роль | Контакт |
 |------|---------|
-| Team Lead | [@username](https://t.me/username) |
+| Team Lead | [@monsiec](https://t.me/monsiec) |
+| 1С Разработчик | [@username](https://t.me/username) |
 | 1С Разработчик | [@username](https://t.me/username) |
 | Аналитик | [@username](https://t.me/username) |
 | Тестировщик | [@username](https://t.me/username) |
